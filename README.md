@@ -6,6 +6,8 @@
 
 ![image](https://github.com/user-attachments/assets/c5a0f933-d7eb-4707-a1ba-e928621cbde6)
 
+![image](https://github.com/user-attachments/assets/24269dc9-fd46-48d7-86a0-463cc33b560f)
+
 ## 2019-2020:
 ![image](https://github.com/user-attachments/assets/9900e987-7289-4891-995f-987285cd686c)
 
