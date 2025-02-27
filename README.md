@@ -1,6 +1,9 @@
 # De-Thi-Toan-Tuyen-Sinh-Lop-10-Chuyen-KHTN-HN
 * Đề Thi Toán Tuyển Sinh Vào Lớp 10 Chuyên (cho tất cả các thí sinh, vòng 1, toán điều kiện) Trường THPT Chuyên KHTN, Hà Nội
 
+## 2023-2024:
+![image](https://github.com/user-attachments/assets/7bad8970-5da0-4526-b360-701d9d1ab59b)
+
 ## 2019-2020:
 ![image](https://github.com/user-attachments/assets/9900e987-7289-4891-995f-987285cd686c)
 
