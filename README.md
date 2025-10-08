@@ -8,6 +8,11 @@
   * http://toanhocvietnam.vn/Upload/dethichuyentoan/2025/de-thi-va-dap-an-Mot-so-bai-toan-trong-de-thi-tuyen-sinh-vao-lop-10-Truong-THPT-CHUYEN-KHTN-nam-2025.pdf
 * 
 
+## 2024-2025:
+* ![image](https://github.com/user-attachments/assets/54bb323d-3c31-43be-8d3c-b90f7d9dfe9a)
+* ![image](https://github.com/user-attachments/assets/061fda80-8e7a-4a07-b4aa-11c9bc2e509e)
+* 
+
 ## 2023-2024:
 ![image](https://github.com/user-attachments/assets/7bad8970-5da0-4526-b360-701d9d1ab59b)
 
