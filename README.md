@@ -2,7 +2,7 @@
 * Đề Thi Toán Tuyển Sinh Vào Lớp 10 Chuyên (cho tất cả các thí sinh, vòng 1, toán điều kiện) Trường THPT Chuyên KHTN, Hà Nội
 
 ## 2025-2026:
-* ![image](https://github.com/user-attachments/assets/884e20f0-de07-4b5f-bc66-208644f7d3aa)
+* ![image](https://github.com/user-attachments/assets/c4bd359b-92a0-405a-a2b4-8a73e3d8046c)
 * http://toanhocvietnam.vn/Upload/dethichuyentoan/2025/de-thi-tuyen-sinh-vao-lop-10-mon-Toan-Truong-THPT-CHUYEN-KHTN-nam-2025.pdf
   * http://toanhocvietnam.vn/Upload/dethichuyentoan/2025/de-thi-va-dap-an-Mot-so-bai-toan-trong-de-thi-tuyen-sinh-vao-lop-10-Truong-THPT-CHUYEN-KHTN-nam-2025.pdf
 * 
